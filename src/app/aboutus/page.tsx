@@ -219,7 +219,7 @@ export default function About() {
               WORK WITH US
             </h5>
             <h2 className="font-bold text-3xl pb-5 text-center md:text-start ">
-              Now Lets Grow Yours
+              Now Let's Grow Yours
             </h2>
             <p className="pb-2 text-center md:text-start">
               Be a part of a vibrant team where creativity meets innovation! We
