@@ -64,7 +64,7 @@ const traditional = [
   {
     imageSrc: "/women/traditional/traditional1.jpg",
     imgAlt: "Traditional Dress 1",
-    actualPrice: "PKR 2000",
+    actualPrice: "PKR 20000",
     price: "PKR 17000",
   },
   {
@@ -262,7 +262,7 @@ const accessories = [
   {
     imageSrc: "/women/accessories/accessory8.jpg",
     imgAlt: "accessory8",
-    actualPrice: "PKR 25000",
+    actualPrice: "PKR 2500",
     price: "PKR 2000",
   },
 ];
