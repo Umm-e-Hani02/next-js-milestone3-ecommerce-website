@@ -262,7 +262,7 @@ const accessories = [
   {
     imageSrc: "/men/accessories/accessory8.jpg",
     imgAlt: "accessory8",
-    actualPrice: "PKR 25000",
+    actualPrice: "PKR 2500",
     price: "PKR 2000",
   },
 ];
